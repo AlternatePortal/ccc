@@ -1,1 +1,3 @@
-Hard-wrapped text interferes with copying and pasting. When you copy text from a browser and paste it into your editor, literal newlines often break sentences in awkward places. This makes the text harder to edit or reuse and forces reformatting to restore natural flow. In contrast, soft-wrapped text adapts automatically to the new environment, eliminating this extra work.
+abc def
+
+Hard-wrapped text interferes with copying and pasting. When you copy text from a browser and paste it into your editor, literal newlines often break sentences in awkward places. This makes the text harder to edit or reuse and forces regular reformatting to restore natural flow. In contrast, soft-wrapped text adapts automatically to the new environment, eliminating this extra work.
